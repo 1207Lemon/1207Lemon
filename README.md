@@ -8,22 +8,22 @@
 ## Who Am I
 - NEU DAMG(数据架构与管理) 在读研究生
 <div>
-  <a href="https://www.github.com/1207Lemon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.github.com/1207lemon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ## GitHub Status
-<img src="http://ghchart.rshah.org/ff6348/1207Lemon" alt="1207Lemon's Github chart"/>
+<img src="http://ghchart.rshah.org/ff6348/1207lemon" alt="1207Lemon's Github chart"/>
 <div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=1207Lemon&show_icons=true&theme=dark" style="max-width: 100%;">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1207Lemon&layout=compact" style="max-width: 100%;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=1207lemon&show_icons=true&theme=dark" style="max-width: 100%;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1207lemon&layout=compact" style="max-width: 100%;">
   
 </div>
 
 ## Pinned REPO
 <!-- 想要展示的 REPO -->
-[![CSYE 7200 Repo](https://github-readme-stats.vercel.app/api/pin/?username=1207Lemon&repo=CSYE7200&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/1207Lemon/CSYE7200)
-[![Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022](https://github-readme-stats.vercel.app/api/pin/?username=1207Lemon&repo=Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/1207Lemon/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022)
- 
+[![CSYE 7200 Repo](https://github-readme-stats.vercel.app/api/pin/?username=1207lemon&repo=CSYE7200&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/1207Lemon/CSYE7200)
+[![Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022](https://github-readme-stats.vercel.app/api/pin/?username=1207lemon&repo=Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/1207lemon/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022)
+
 
 ## 已获得技能 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -99,5 +99,5 @@
 
 ----
 <!-- Github 统计记录 -->
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1207Lemon&theme=vue)
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=1207Lemon&theme=github)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1207lemon&theme=vue)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=1207lemon&theme=github)
