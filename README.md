@@ -12,9 +12,11 @@
 </div>
 
 ## GitHub Status
-<!-- GitHub Status -->
-![1207Lemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=1207Lemon&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1207Lemon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://ghchart.rshah.org/ff6348/1207Lemon" alt="1207Lemon's Github chart"/>
+<div>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=1207Lemon&show_icons=true&theme=dark" style="max-width: 100%;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1207Lemon&layout=compact" style="max-width: 100%;">
+</div>
 
 ## Pinned REPO
 <!-- 想要展示的 REPO -->
