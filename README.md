@@ -18,10 +18,8 @@
 
 ## Pinned REPO
 <!-- 想要展示的 REPO -->
-[![Shell Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=shell&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/shell)
-[![Notes Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=Notes&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/Notes)
-[![Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/LemonSoldOut/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022)
-[![Config Repo](https://github-readme-stats.vercel.app/api/pin/?username=lemonsoldout&repo=config&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/lemonsoldout/config)
+[![CSYE 7200 Repo](https://github-readme-stats.vercel.app/api/pin/?username=1207Lemon&repo=CSYE7200&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/1207Lemon/CSYE7200)
+[![Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022](https://github-readme-stats.vercel.app/api/pin/?username=1207Lemon&repo=Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/1207Lemon/Big-Data-Systems-Intelligence-Analytics-Labs-Summer-2022)
  
 
 ## 已获得技能 Skills
